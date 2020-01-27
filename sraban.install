@@ -1,0 +1,319 @@
+nebular/auth
+
+
+-------------------------------
+npm i @swimlane/ngx-charts --save
+
+import { NgxChartsModule } from '@swimlane/ngx-charts';
+
+https://github.com/swimlane/ngx-charts
+
+-------------------------------
+npm install --save angular-tree-component
+https://angular2-tree.readme.io/docs
+@import '~angular-tree-component/dist/angular-tree-component.css';
+
+-------------------------------
+npm install angular2-chartjs
+  
+https://www.npmjs.com/package/angular2-chartjs
+import { ChartModule } from 'angular2-chartjs';
+-------------------------------
+npm install bootstrap@3 --save
+npm install bootstrap@3.3.7
+****npm install ngx-bootstrap --save
+
+-------------------------------
+npm install jquery --save
+npm i @types/jquery -D
+“scripts”: [ 
+   “../node_modules/jquery/dist/jquery.min.js”,  
+   “../node_modules/bootstrap/dist/js/bootstrap.js”
+]  
+
+-------------------------------
+npm install ng2-charts --save
+npm install chart.js --save
+https://coursetro.com/posts/code/126/Let%27s-build-an-Angular-5-Chart.js-App---Tutorial
+-------------------------------
+npm install --save ckeditor
+npm install --save ng2-ckeditor
+https://stackblitz.com/edit/ng2-ckeditor?file=src%2Findex.html
+-------------------------------
+npm install echarts -S
+npm install ngx-echarts -S
+npm install @types/echarts -D
+https://www.npmjs.com/package/ngx-echarts
+-------------------------------
+npm install nebular-icons@1.1.0
+npm i eva-icons
+npm install --save ionicons
+-------------------------------
+
+npm install leaflet
+npm install @asymmetrik/ngx-leaflet
+npm install --save-dev @types/leaflet
+@import('node_modules/leaflet/dist/leaflet.css')
+
+http://www.lib4dev.in/info/Asymmetrik/ngx-leaflet/75210682
+-------------------------------
+npm install ng2-completer --save
+
+https://www.npmjs.com/package/ng2-completer
+https://oferh.github.io/ng2-completer/#/native
+-------------------------------
+npm install --save ng2-smart-table
+import { Ng2SmartTableModule } from 'ng2-smart-table';
+
+https://github.com/akveo/ng2-smart-table
+-------------------------------
+npm install --save normalize.css
+@import "~normalize.css/normalize.css";
+-------------------------------
+npm i pace-js
+@import "~pace-js/themes/blue/pace-theme-minimal.css";
+"node_modules/pace-js/pace.js"
+https://github.hubspot.com/pace/docs/welcome/
+-------------------------------
+npm install roboto-fontface --save
+@import "node_modules/css/roboto/roboto-fontface.less"
+-------------------------------
+npm install socicon
+@import "node_modules/socicon/css/socicon.css"
+http://www.socicon.com/icons.php
+-------------------------------
+https://www.npmjs.com/package/@tinymce/tinymce-angular
+npm install @tinymce/tinymce-angular
+import { EditorModule } from '@tinymce/tinymce-angular';
+
+or by saving in local
+
+npm install --save tinymce
+"scripts": [
+  "node_modules/tinymce/tinymce.min.js"
+]
+
+"assets": [
+  { "glob": "**/*", "input": "node_modules/tinymce/skins", "output": "/tinymce/skins/" },
+  { "glob": "**/*", "input": "node_modules/tinymce/themes", "output": "/tinymce/themes/" },
+  { "glob": "**/*", "input": "node_modules/tinymce/plugins", "output": "/tinymce/plugins/" }
+]
+
+-------------------------------
+npm i url-loader --save
+-------------------------------
+npm install --save typeface-exo
+https://www.npmjs.com/package/typeface-exo
+-------------------------------
+npm install --save web-animations-js
+import 'web-animations-js'; in pollyfill.ts
+https://angular.io/guide/browser-support
+-------------------------------
+**npm i @fortawesome/fontawesome-free
+npm install font-awesome --save-dev
+@import "node_modules/font-awesome/less/font-awesome.less"
+@import url('../node_modules/font-awesome/css/font-awesome.min.css');
+
+-------------------------------
+****npm install @agm/core --save-dev
+npm install --save-dev @types/googlemaps
+In tsconfig.app.json
+"types": [
+      "googlemaps"
+]
+/// <reference types="@types/googlemaps" />
+declare module 'googlemaps'; in a "index.d.ts" file
+https://www.freakyjolly.com/angular-7-6-add-google-maps-in-angular-2-plus-applications-using-angular-google-maps-module-agm-core-easily/#more-2316
+https://stackblitz.com/edit/angular-5-google-maps?file=app%2Fapp.component.ts
+https://medium.com/@jkeung/integrating-google-maps-api-w-angular-7-e7672396ce2d
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+
