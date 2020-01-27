@@ -1,0 +1,11 @@
+/dist
+/e2e
+/node_modules
+/rrrrrrrrrr-assets
+.editorconfig
+angular1.json
+new.png
+package_dummy.json
+1.git/
+1.gitignore
+package-lock.json
